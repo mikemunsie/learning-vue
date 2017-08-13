@@ -1,0 +1,22 @@
+body {
+  font-family: arial;
+}
+
+button {
+  margin-top: 30px;
+  padding: 30px;
+  display: block;
+  font-family: arial;
+  font-size: 15px;
+  transition: all 1s;
+  border: 1px solid #000;
+  opacity: .4;
+}
+
+button:hover {
+  opacity: 1;
+  border-radius: 5px;
+}
+
+
+
